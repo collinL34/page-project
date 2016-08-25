@@ -1,0 +1,36 @@
+html {
+  background-image: url('page.jpeg');
+  text-align: center;
+  font-family: Helvetica;
+}
+
+main {
+  background-color: tan;
+  height: 100%;
+  margin-left: 200px;
+  margin-right: 200px;
+  border-radius: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#photos {
+  width: 300px;
+  padding-left: 10px;
+  height: 240px;
+  float: left;
+}
+
+h2 {
+  padding-right: 230px;
+}
+
+p {
+  width: 600px;
+  padding-left: 280px;
+  font-size: 20px;
+}
+
+#h1 {
+  padding-right: 400px;
+}
