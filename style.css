@@ -31,7 +31,8 @@ a:link, a:visited {
 }
 
 #header {
-  font-size: 50px;
+  color: Aqua;
+  font-size: 70px;
   padding-left: 200px;
 }
 
@@ -41,14 +42,13 @@ a:link, a:visited {
 }
 /* Header */
 header {
-  height: 180px;
+  height: 130px;
 }
 
 #links {
-  background-color: blue;
+  background-color: Aqua;
   border-radius: 10px;
   width: 230px;
-  color: pink;
 }
 
 header {
